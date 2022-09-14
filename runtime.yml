@@ -1,0 +1,4 @@
+# Keys associated with the Hammer dispatch runtime
+vlsi.core.max_threads: 4
+vlsi.core.build_system: make
+# TODO: add bsub (LSF) keys

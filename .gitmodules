@@ -1,0 +1,6 @@
+[submodule "hammer"]
+	path = hammer
+	url = git@github.com:ucb-bar/hammer
+[submodule "hammer-cadence-plugins"]
+	path = hammer-cadence-plugins
+	url = git@github.com:ucb-bar/hammer-cadence-plugins
